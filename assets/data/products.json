@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "name": "AYBÜ Sweatshirt",
+    "description": "Lacivert renkli, rahat kesimli üniversite sweatshirtü.",
+    "category": "Giyim",
+    "price": 799.90,
+    "image": "assets/images/sweatshirt.png"
+  },
+  {
+    "id": 2,
+    "name": "AYBÜ Tişört",
+    "description": "Günlük kullanıma uygun pamuklu üniversite tişörtü.",
+    "category": "Giyim",
+    "price": 349.90,
+    "image": "assets/images/tshirt.png"
+  },
+  {
+    "id": 3,
+    "name": "AYBÜ Kupa",
+    "description": "Üniversite temalı seramik kahve kupası.",
+    "category": "Aksesuar",
+    "price": 199.90,
+    "image": "assets/images/kupa.png"
+  },
+  {
+    "id": 4,
+    "name": "AYBÜ Termos",
+    "description": "Kampüs yaşamı için kullanışlı çelik termos.",
+    "category": "Aksesuar",
+    "price": 449.90,
+    "image": "assets/images/termos.png"
+  },
+  {
+    "id": 5,
+    "name": "AYBÜ Bez Çanta",
+    "description": "Kitaplarını ve günlük eşyalarını taşıyabileceğin bez çanta.",
+    "category": "Aksesuar",
+    "price": 249.90,
+    "image": "assets/images/canta.png"
+  },
+  {
+    "id": 6,
+    "name": "AYBÜ Defter",
+    "description": "Ders notların için üniversite temalı çizgili defter.",
+    "category": "Kırtasiye",
+    "price": 149.90,
+    "image": "assets/images/defter.png"
+  }
+]
